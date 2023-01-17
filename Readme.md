@@ -1,0 +1,1 @@
+Este é um jogo da forca simples feito para testar lógica de programação e alguns fundamentos do python.
